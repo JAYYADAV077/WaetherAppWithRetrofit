@@ -29,7 +29,9 @@ A modern Weather App built with **Kotlin**, **Jetpack Compose**, and **MVVM arch
 
 ---
 
-## 📷 Screenshots
+## 📷 Screenshots & video
+
+> https://github.com/user-attachments/assets/7a0029fc-d3f6-4a2e-b3ef-79b36f5c4560
 
 > ![image alt](https://github.com/JAYYADAV077/WaetherAppWithRetrofit/blob/main/Screenshot%202025-07-11%20124046.png?raw=true)
 
