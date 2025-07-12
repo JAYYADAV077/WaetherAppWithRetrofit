@@ -1,6 +1,6 @@
 # 🌤️ Weather App
 
-A modern Weather App built with **Kotlin**, **Jetpack Compose**, and **MVVM architecture**. It fetches real-time weather data using **Retrofit** and displays weather icons using **Coil**.
+A modern Weather App built with **Kotlin**, **Jetpack Compose**, and **MVVM architecture**. It fetche real-time weather data using **Retrofit** and displays weather icons using **Coil**.
 
 ---
 
